@@ -3,7 +3,9 @@
 # Education
 
 ## [Bauman Moscow State Technical University](https://www.bmstu.ru/)
+
 **2015-2021 - Department of Computer Science and Control Systems (Instrumentation)**
+
 **Specialist with a distinction in Aircraft Automatic Control Systems**
 
 # Publications
@@ -20,4 +22,5 @@
 ##  [Russian Space Systems](http://russianspacesystems.ru/)
 
 * **2017-2018 - Intern**
+
 * **2018-Present time - 1st category technician (Programmer), Software development department**
