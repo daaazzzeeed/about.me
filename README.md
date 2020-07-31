@@ -4,9 +4,7 @@
 
 ## [Bauman Moscow State Technical University](https://www.bmstu.ru/)
 
-**2015-2021 - Department of Computer Science and Control Systems (Instrumentation)**
-
-**Specialist with a distinction in Aircraft Automatic Control Systems**
+**2015-2021 - Department of Computer Science and Control Systems (Instrumentation) - Specialist with a distinction in Aircraft Automatic Control Systems**
 
 # Publications
 
