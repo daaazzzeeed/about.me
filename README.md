@@ -27,4 +27,9 @@
 
 * **2018 - July 2021 - 1st category technician (Programmer), Software development department**
 
-* **June 2021 - Present time - Software Engineer, Software development department**
+* **July 2021 - September 2021 - Software Engineer, Software development department**
+
+
+## [SberAutoTech](https://sberautotech.ru/)
+
+* September 2021 - Python backend developer
