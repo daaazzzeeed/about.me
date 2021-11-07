@@ -30,6 +30,6 @@
 * **July 2021 - September 2021 - Software Engineer, Software development department**
 
 
-## [SberAutoTech](https://sberautotech.ru/)
+## [SberAutoTech (Sberbank Automotive Technologies)](https://sberautotech.ru/)
 
-* September 2021 - Python backend developer
+* **September 2021 - Python backend developer**
