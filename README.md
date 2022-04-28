@@ -15,7 +15,7 @@
 * **September 2021 - Python backend developer**
 
 Took part in development of different backend services and creating integrations with an external APIs.  
-We pimarily used async Python with FastAPI for creating REST API with Pydantic for schemes, Postgres + SQLAlchemy for storing our data locally and creating models, MinIO as a object storage, alembic to migrate our data and docker to deploy our apps.
+We pimarily used async Python with FastAPI for creating REST API with Pydantic for schemes, Postgres + SQLAlchemy for storing our data locally and creating models, MinIO as an object storage, alembic for data migrations and docker to deploy our apps.
 
 
 ##  [Russian Space Systems](http://russianspacesystems.ru/)
