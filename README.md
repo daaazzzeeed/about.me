@@ -5,6 +5,8 @@
 ## [SberAutoTech (Sberbank Automotive Technologies)](https://sberautotech.ru/)
 
 * **September 2021 - Python backend developer**
+Took part in development of different backend services and creating integrations with an external APIs.
+We pimarily used async Python with FastAPI for creating REST API with Pydantic for schemes, Postgres + SQLAlchemy for storing our data locally and creating models, MinIO as a object storage, alembic to migrate our data and docker to deploy our apps.
 
 
 ##  [Russian Space Systems](http://russianspacesystems.ru/)
@@ -15,6 +17,11 @@
 
 * **July 2021 - September 2021 - Software Engineer, Software development department**
 
+Developed several program models for data-transfer networks. Used C++ (both pure and with Qt) and Python.
+
+## Side activity
+
+Worked as tutor helping students of tech universities gain their skills in a programming.
 
 # Education
 
