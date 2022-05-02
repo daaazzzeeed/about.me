@@ -12,7 +12,7 @@
 
 ## [SberAutoTech (Sberbank Automotive Technologies)](https://sberautotech.ru/)
 
-* **September 2021 - Python backend developer**
+* **September 2021 - Now: Python backend developer**
 
 Took part in development of different backend services and creating integrations with an external APIs.  
 We pimarily used async Python with FastAPI for creating REST API with Pydantic for schemes, Postgres + SQLAlchemy for storing our data locally and creating models, MinIO as an object storage, alembic for data migrations and docker for apps deployment.
