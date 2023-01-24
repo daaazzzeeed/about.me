@@ -1,4 +1,4 @@
-# Dmitry Petukhov (He, Him)
+# Dmitry Petukhov
 
 
 **Age:** 24 (1997)  
