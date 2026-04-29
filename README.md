@@ -10,6 +10,38 @@
 
 # Experience 
 
+## [Garda Capital](https://www.gardacapital.ru/)
+
+* **April 2026 - Now: Python backend developer**
+
+Investment platform team
+
+## [Sberbank](https://www.sberbank.ru/)
+
+* **August 2025 - March 2026: Python backend developer**
+
+AI RAG and integrations Platform Team
+
+## [Raiffeisen Bank](https://www.raiffeisen.ru/)
+
+* **September 2023 - August 2025: Python backend developer**
+
+Credit Automation Platform and Risks Team
+
+- Developed a core backend service component to swiftly process hundreds of companies by INN, delivering fast and reliable risk and compliance analysis to enable credit approvals. This became a crucial driver of the new business direction.
+- Development of the new Python microservices architecture and internal implementation 
+- Initiation of the regular team best practices discussion and integration meetings 
+- Regular code-review with multiple participants
+- Continuous support and refactoring of the existing microservises 
+- Migrations from old deployment systems to k8s
+- Deployment to production and testing environments 
+- Development of the new ci pipelines and support of the existing 
+- Production environment incidents management 
+- Implementation of unit tests and autotests. Also migrated autotests from behave driven framework (behave) to pytest. 
+- Documentation support 
+- Communication with analytics, QA, FE teams and other BE teams
+- T-Shapers and Trainees mentoring
+
 ## [VK Cloud](https://mcs.mail.ru/)
 
 * **February 2023 - Now: Python backend developer**
