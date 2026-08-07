@@ -1,7 +1,7 @@
 # Dmitry Petukhov
 
 
-**Age:** 28 (1997)  
+**Age:** 28 (Nov 1997)  
 **Location:** Moscow, Russia  
 **Relocation:** undesired  
 **Remote:** strongly desired         
